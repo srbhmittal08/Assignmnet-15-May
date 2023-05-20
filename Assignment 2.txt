@@ -1,0 +1,51 @@
+             Assignment 2
+             
+Answer 1- We can use ## or # for writing comment in single line. We can use  triple double/single quotes in starting and end of multi sentence. 
+ Comment is of two types
+ 1. Single Line comment-
+     ex - """ My Name is Saurabh"""
+ 2. Multi Line comment-
+ ex - """My name is saurabh. 
+         I am doing job.
+         I am living in Jaipur.
+         I am belong to bharatpur which is famous for National Bird Sanctuary""".
+         
+ Answer 2- Variable is reference or point of indication value in python 
+        variable is declare by name of its object and we can assign value to variable by = . = is assignment operator it can assign the value to object.
+        
+Answer 3- a = 4 
+           type(a)
+           int
+           float(a)
+           4.0
+           we can use typecasting for convert one data type into another data type.
+
+
+Answer 4- 
+
+Answer 5- my_list = [1,2,3,4,5]
+          my_list[1:3]
+          output
+          [2,3]
+          
+Answer 6- Complex number is combination of real and imaginary number in mathematics.
+ex s = 7+5j
+ s
+ s
+ 7+5j
+ 
+ Answer 7- Using assignment operation we can assign the value 
+             age = 25
+             
+ Answer 8 price = 9.99. Data type is float
+ 
+ Answer 9 name = "Saurabh Mittal"
+            print(name)
+            
+ Answer 10 s = "Hello, World!"
+            s[6:12:1]
+            Output
+            'World'
+            
+         
+ 
